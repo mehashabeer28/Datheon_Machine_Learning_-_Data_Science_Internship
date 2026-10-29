@@ -20,7 +20,7 @@ Three Machine learning projects completed as the part of internship.
   - Recall
   - F1-score
   - Confusion Matrix
-Project Files
+### Project Files
   - iris_classification.py — Python source code
   - iris_classification.ipynb — Jupyter Notebook
   - iris (1).csv — Dataset
