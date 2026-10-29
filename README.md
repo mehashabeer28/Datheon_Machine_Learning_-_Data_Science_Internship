@@ -1,10 +1,5 @@
 # Datheon_Machine_Learning_Data_Science_Internship
-Three Machine learning projects completed as the part of internship
-
-
-
-# Data Science and Machine Learning Internship
-  Three machine learning projects completed as part of an internship.
+Three Machine learning projects completed as the part of internship.
 
 ## Project 1: Iris Classification Pipeline
 ### Objective
@@ -16,15 +11,15 @@ Three Machine learning projects completed as the part of internship
   - Scikit-learn
   - Matplotlib and Seaborn
   - Jupyter Notebook
-Machine Learning Models
+ ### Machine Learning Models
   - Logistic Regression
   - Decision Tree Classifier
-Evaluation Metrics
+### Evaluation Metrics
   - Accuracy
   - Precision
   - Recall
   - F1-score
-  Confusion Matrix
+  - Confusion Matrix
 Project Files
   - iris_classification.py — Python source code
   - iris_classification.ipynb — Jupyter Notebook
