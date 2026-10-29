@@ -1,4 +1,4 @@
-# Datheon_Machine_Learning_-_Data_Science_Internship
+# Datheon_Machine_Learning_Data_Science_Internship
 Three Machine learning projects completed as the part of internship
 
 
